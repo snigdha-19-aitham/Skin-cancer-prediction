@@ -45,5 +45,5 @@ This project uses the **[HAM10000 Dataset](https://www.kaggle.com/datasets/kmade
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/skin-cancer-prediction.git
+   git clone https://github.com/snigdha-19-aitham/skin-cancer-prediction.git
    cd skin-cancer-prediction
